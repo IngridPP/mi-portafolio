@@ -1,6 +1,6 @@
 # mi-portafolio
 Este es mi portfolio creado en HTML, CSS y JavaScript
-##Autor-
+## Autor-
 **Ingrid Perez**
 *[LinkedIn](https://www.linkedin.com/in/ingrid-perez-ab9305312/)
 ## Contratacion
